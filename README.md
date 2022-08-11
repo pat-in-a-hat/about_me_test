@@ -4,7 +4,7 @@ R2R2R October 2022
 
 
 
-*Coming Soon* ## Projects In Progress
+## Projects In Progress
 Movordle <br />
 Fishbyte <br />
 Redband <br />
